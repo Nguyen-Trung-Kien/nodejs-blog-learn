@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhchangmutrang/nodejs-blog-learn.git"
+  },
+  "keywords": [
+    "anhchangmutrang",
+    "blog",
+    "nodejs"
+  ],
+  "author": "anhchangmutrang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhchangmutrang/nodejs-blog-learn/issues"
+  },
+  "homepage": "https://github.com/anhchangmutrang/nodejs-blog-learn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
